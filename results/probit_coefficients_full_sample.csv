@@ -1,0 +1,7 @@
+model,variable,coef,std_err,z,p_value,marginal_effect_at_mean
+probit_spread,const,-0.3090,0.0767,-4.0271,0.0001,
+probit_spread,term_spread,-0.8363,0.0767,-10.9018,0.0000,-0.1168
+probit_full,const,-0.2631,0.1760,-1.4946,0.1350,
+probit_full,term_spread,-0.8295,0.0774,-10.7198,0.0000,-0.1145
+probit_full,credit_spread,-0.0193,0.1042,-0.1849,0.8533,-0.0027
+probit_full,sahm_gap,-0.0809,0.0911,-0.8880,0.3745,-0.0112

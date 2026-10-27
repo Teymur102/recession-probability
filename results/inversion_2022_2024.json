@@ -1,0 +1,19 @@
+{
+  "months_term_spread_negative_2022_2024": 25,
+  "first_negative_month": "2022-11",
+  "last_negative_month": "2024-11",
+  "min_term_spread": -1.5699999999999998,
+  "min_term_spread_month": "2023-05",
+  "probit_spread_peak_prob": 0.9924204293336457,
+  "probit_spread_peak_month": "2023-05",
+  "probit_spread_months_at_or_above_50pct": 25,
+  "probit_full_peak_prob": 0.9958453089829583,
+  "probit_full_peak_month": "2023-05",
+  "probit_full_months_at_or_above_50pct": 27,
+  "boosting_peak_prob": 0.988245830389049,
+  "boosting_peak_month": "2023-10",
+  "boosting_months_at_or_above_50pct": 26,
+  "labels_in_window": {
+    "0.0": 36
+  }
+}

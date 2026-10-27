@@ -1,0 +1,16 @@
+{
+  "term_spread_vs_T10Y3M_corr": 0.9956,
+  "term_spread_vs_T10Y3M_mean_diff_pp": 0.116,
+  "term_spread_vs_T10Y3M_overlap": "1982-01 to 2026-09",
+  "credit_spread_vs_BAA10Y_corr": 1.0,
+  "credit_spread_vs_BAA10Y_overlap": "1986-01 to 2026-09",
+  "latest_daily_T10Y3M_date": "2026-10-27",
+  "latest_daily_T10Y3M_value": 0.77,
+  "panel_start": "1953-04",
+  "usrec_last_month": "2026-09",
+  "features_last_month": "2026-09",
+  "unrate_months_forward_filled": [
+    "2025-10"
+  ],
+  "nan_check": true
+}

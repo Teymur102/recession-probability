@@ -1,0 +1,5 @@
+model,brier,brier_skill_vs_base,auc,log_loss,hit_rate_at_50,false_alarm_rate_at_50,bss_90ci_low,bss_90ci_high,n_months,n_positive
+base_rate,0.1049,0.0000,,0.3736,0.0000,0.0000,,,453,48
+probit_spread,0.1063,-0.0140,0.8736,0.3458,0.3958,0.0790,-0.7814,0.5048,453,48
+probit_full,0.1222,-0.1652,0.8591,0.4102,0.5208,0.1259,-0.9895,0.4011,453,48
+boosting,0.1436,-0.3691,0.8300,0.4649,0.4167,0.1679,-1.2147,0.3329,453,48

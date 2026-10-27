@@ -1,0 +1,32 @@
+{
+  "as_of_month": "2026-09",
+  "usrec_known_through": "2026-09",
+  "last_labelled_month": "2025-09",
+  "n_train": 753,
+  "n_train_pos": 120,
+  "base_rate_full_sample": 0.1593625498007968,
+  "features": {
+    "term_spread": 1.0500000000000003,
+    "credit_spread": 1.4799999999999995,
+    "sahm_gap": 0.0
+  },
+  "probit_spread": {
+    "prob": 0.11758403249724209,
+    "param_90_low": 0.09484701805550519,
+    "param_90_high": 0.1442567876414997,
+    "pseudo_r2": 0.2902213785305906
+  },
+  "probit_full": {
+    "prob": 0.12249700983167017,
+    "param_90_low": 0.09736856044903737,
+    "param_90_high": 0.15200635591710074,
+    "pseudo_r2": 0.2917996767568586
+  },
+  "oos_backtest_latest": {
+    "base_rate": 0.16129032258064516,
+    "probit_spread": 0.12072158127648486,
+    "probit_full": 0.12541350454529882,
+    "boosting": 0.13195201579020338
+  },
+  "oos_backtest_latest_month": "2026-09"
+}
